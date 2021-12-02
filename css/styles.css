@@ -436,7 +436,7 @@ input:checked+.slider:before {
   -webkit-transform: translateX(24px);
   -ms-transform: translateX(24px);
   transform: translateX(24px);
-  background: white url("./img/moon.png");
+  background: white url("./img/moon.PNG");
   background-repeat: no-repeat;
   background-position: center;
 }
